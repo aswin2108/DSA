@@ -8,4 +8,4 @@ int main()
     c=a+b;
     cout<<"\nSum of the two numbers: "<<c;
     return 0;
-}
+}5
